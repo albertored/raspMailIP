@@ -15,7 +15,7 @@ and then modify the file `/etc/ssmtpssmtp.conf` with your preferred settings
 (in [this](http://www.havetheknowhow.com/Configure-the-server/Install-ssmtp.html) 
 guide there is an example of configuration for a gmail account).
 
-# Getting started
+## Getting started
 
 1. open the script with a text editor
 2. modify the path to the directory in which you want to put the files with your IPs
